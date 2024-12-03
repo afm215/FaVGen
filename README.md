@@ -1,4 +1,4 @@
-# 🔍Private code for Fairness Analysis for Face Verification 
+# 🔍Fairness Analysis for Face Verification 
 
 This repository provides the fair dataset of synthetic faces created in the paper **Fairer Analysis and Demographically Balanced Face Generation for Fairer Face Verification** published at WACV 2025 (see [credits](#-acknowledgments-and-credits)). We plan to release the code to generate other synthetic datasets.
 
